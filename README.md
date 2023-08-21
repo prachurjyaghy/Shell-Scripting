@@ -1,4 +1,4 @@
-# Shell-Scripting-for-command-line-tasks-automation
+# Shell Scripting for command line tasks automation
 **Basics of shell scripting tool along with theoritical and practical informations**
 
 This course will cover the theoritical and practical information from the shell scripting learnings.
